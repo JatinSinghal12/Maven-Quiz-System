@@ -1,0 +1,6 @@
+projectKey=onlinequiz
+serverUrl=http://localhost:8080
+serverVersion=9.7.1.62043
+dashboardUrl=http://localhost:8080/dashboard?id=onlinequiz
+ceTaskId=AYhWVLYxjfb-PSVVw7qF
+ceTaskUrl=http://localhost:8080/api/ce/task?id=AYhWVLYxjfb-PSVVw7qF

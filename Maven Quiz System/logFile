@@ -1,0 +1,1980 @@
+2023-05-138 17:01:23 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:01:23 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:01:23 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:01:23 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:01:23 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:01:23 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:01:23 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:01:23 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:01:28 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:01:28 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:01:28 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Score(/100)   | TimeTaken(in Sec)|
+2023-05-138 17:01:28 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:01:28 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:01:28 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:01:28 INFO  BaseController:60 - 	3	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:01:28 INFO  BaseController:60 - 	4	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:01:28 INFO  BaseController:60 - 	5	11	test234		test234@gmail.com		33.34		28
+2023-05-138 17:01:28 INFO  BaseController:60 - 	6	12	Sam		sam@gmail.com     		3.0		42
+2023-05-138 17:01:28 INFO  BaseController:60 - 	7	8	testing		testing@gmail.com		2.0		6
+2023-05-138 17:01:28 INFO  BaseController:67 - 
+
+
+2023-05-138 17:01:28 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:01:28 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:01:28 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:01:28 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:01:28 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:01:28 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:01:28 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:01:28 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:01:28 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:01:47 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:01:51 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-138 17:01:51 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:01:51 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:01:51 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:01:51 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:01:51 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:01:51 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:01:51 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:01:51 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:01:51 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:02:00 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:02:03 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-138 17:02:03 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:02:03 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:02:03 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:02:03 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:02:03 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:02:03 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:02:03 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:02:03 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:02:03 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:02:07 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:02:14 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-138 17:02:17 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-138 17:02:17 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:02:17 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:02:17 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:02:17 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:02:17 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:02:17 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:02:17 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:02:17 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:02:17 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:02:31 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:02:38 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-138 17:02:44 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-138 17:02:44 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:02:44 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:02:44 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:02:44 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:02:44 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:02:44 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:02:44 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:02:44 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:02:44 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:02:58 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:03:05 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-138 17:03:08 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-138 17:03:08 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:03:08 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:03:08 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:03:08 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:03:08 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:03:08 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:03:08 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:03:08 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:03:08 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:04:51 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:04:51 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:04:51 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:04:51 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:04:51 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:04:51 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:04:51 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:04:51 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:04:51 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:04:55 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:04:55 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:04:55 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Score(/100)   | TimeTaken(in Sec)|
+2023-05-138 17:04:55 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:04:55 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:04:55 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:04:55 INFO  BaseController:60 - 	3	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:04:56 INFO  BaseController:60 - 	4	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:04:56 INFO  BaseController:60 - 	5	11	test234		test234@gmail.com		33.34		28
+2023-05-138 17:04:56 INFO  BaseController:60 - 	6	12	Sam		sam@gmail.com     		3.0		42
+2023-05-138 17:04:56 INFO  BaseController:60 - 	7	8	testing		testing@gmail.com		2.0		6
+2023-05-138 17:04:56 INFO  BaseController:67 - 
+
+
+2023-05-138 17:04:56 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:04:56 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:04:56 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:04:56 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:04:56 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:04:56 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:04:56 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:04:56 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:04:56 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:05:43 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:05:43 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:05:43 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:05:43 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:05:43 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:05:43 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:05:43 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:05:43 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:05:43 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:05:46 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:05:46 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:05:46 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Score(/100)   | TimeTaken(in Sec)|
+2023-05-138 17:05:46 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:05:46 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:05:46 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:05:46 INFO  BaseController:60 - 	3	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:05:46 INFO  BaseController:60 - 	4	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:05:46 INFO  BaseController:60 - 	5	11	test234		test234@gmail.com		33.33		28
+2023-05-138 17:05:46 INFO  BaseController:60 - 	6	12	Sam		sam@gmail.com     		3.0		42
+2023-05-138 17:05:46 INFO  BaseController:60 - 	7	8	testing		testing@gmail.com		2.0		6
+2023-05-138 17:05:46 INFO  BaseController:67 - 
+
+
+2023-05-138 17:05:46 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:05:46 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:05:46 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:05:46 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:05:46 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:05:46 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:05:46 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:05:46 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:05:46 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:06:00 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:06:05 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-138 17:06:07 INFO  BaseController:102 - ==============================================================================================================
+
+2023-05-138 17:06:07 INFO  BaseController:103 - Welcome Sam !!
+
+2023-05-138 17:06:07 INFO  BaseController:123 - 1. View Profile
+2023-05-138 17:06:07 INFO  BaseController:124 - 2. Update Profile
+2023-05-138 17:06:07 INFO  BaseController:125 - 3. Start Quiz
+2023-05-138 17:06:07 INFO  BaseController:126 - 4. Logout
+
+2023-05-138 17:06:07 INFO  BaseController:127 - ==============================================================================================================
+
+2023-05-138 17:06:07 INFO  BaseController:128 - Please Choose Correct Option : 
+2023-05-138 17:06:12 INFO  BaseController:157 - ==============================================================================================================
+
+2023-05-138 17:06:12 INFO  BaseController:158 - Id :       12
+2023-05-138 17:06:12 INFO  BaseController:159 - Name :     Sam
+2023-05-138 17:06:12 INFO  BaseController:160 - Email Id : sam@gmail.com
+2023-05-138 17:06:12 INFO  BaseController:161 - Phone No : 7890654321
+
+2023-05-138 17:06:12 INFO  BaseController:162 - ==============================================================================================================
+
+2023-05-138 17:06:12 INFO  BaseController:123 - 1. View Profile
+2023-05-138 17:06:12 INFO  BaseController:124 - 2. Update Profile
+2023-05-138 17:06:12 INFO  BaseController:125 - 3. Start Quiz
+2023-05-138 17:06:12 INFO  BaseController:126 - 4. Logout
+
+2023-05-138 17:06:12 INFO  BaseController:127 - ==============================================================================================================
+
+2023-05-138 17:06:12 INFO  BaseController:128 - Please Choose Correct Option : 
+2023-05-138 17:06:23 INFO  BaseController:137 - Quiz Starting
+2023-05-138 17:06:23 INFO  BaseController:145 - 5...
+2023-05-138 17:06:24 INFO  BaseController:145 - 4...
+2023-05-138 17:06:24 INFO  BaseController:145 - 3...
+2023-05-138 17:06:25 INFO  BaseController:145 - 2...
+2023-05-138 17:06:25 INFO  BaseController:145 - 1...
+2023-05-138 17:06:25 INFO  BaseController:148 - Go
+
+
+2023-05-138 17:06:25 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:25 INFO  BaseController:153 - Question 2 : 2*3=?
+
+2023-05-138 17:06:25 INFO  BaseController:154 - (A)5
+2023-05-138 17:06:25 INFO  BaseController:155 - (B)7
+2023-05-138 17:06:25 INFO  BaseController:156 - (C)6
+2023-05-138 17:06:25 INFO  BaseController:157 - (D)2
+
+2023-05-138 17:06:25 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:31 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:31 INFO  BaseController:153 - Question 3 : which is even number
+
+2023-05-138 17:06:31 INFO  BaseController:154 - (A)7
+2023-05-138 17:06:31 INFO  BaseController:155 - (B)8
+2023-05-138 17:06:31 INFO  BaseController:156 - (C)5
+2023-05-138 17:06:31 INFO  BaseController:157 - (D)9
+
+2023-05-138 17:06:31 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:35 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:35 INFO  BaseController:153 - Question 4 : Which one of the following is not a Java feature?
+
+2023-05-138 17:06:35 INFO  BaseController:154 - (A)Object-oriented
+2023-05-138 17:06:35 INFO  BaseController:155 - (B)Use of pointers
+2023-05-138 17:06:35 INFO  BaseController:156 - (C)Portable
+2023-05-138 17:06:35 INFO  BaseController:157 - (D)Dynamic and Extensible
+
+2023-05-138 17:06:35 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:47 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:47 INFO  BaseController:153 - Question 5 : Which component is used to compile, debug and execute the java programs?
+
+2023-05-138 17:06:47 INFO  BaseController:154 - (A)JRE
+2023-05-138 17:06:47 INFO  BaseController:155 - (B)JIT
+2023-05-138 17:06:47 INFO  BaseController:156 - (C)JDK
+2023-05-138 17:06:47 INFO  BaseController:157 - (D)JVM
+
+2023-05-138 17:06:47 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:49 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:49 INFO  BaseController:153 - Question 6 : Which statement is true about Java?
+
+2023-05-138 17:06:49 INFO  BaseController:154 - (A)Java is a sequence-dependent programming language
+2023-05-138 17:06:49 INFO  BaseController:155 - (B)Java is a code dependent programming language
+2023-05-138 17:06:49 INFO  BaseController:156 - (C)Java is a platform-dependent programming language
+2023-05-138 17:06:49 INFO  BaseController:157 - (D)Java is a platform-independent programming language
+
+2023-05-138 17:06:49 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:50 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:06:50 INFO  BaseController:153 - Question 7 : Who invented Java Programming?
+
+2023-05-138 17:06:50 INFO  BaseController:154 - (A)Guido van Rossum
+2023-05-138 17:06:50 INFO  BaseController:155 - (B)James Gosling
+2023-05-138 17:06:50 INFO  BaseController:156 - (C)Dennis Ritchie
+2023-05-138 17:06:50 INFO  BaseController:157 - (D)Bjarne Stroustrup
+
+2023-05-138 17:06:50 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:06:52 INFO  BaseController:170 - You Scored 16.67 , Total Time Taken : 26 Seconds
+2023-05-138 17:06:52 INFO  BaseController:123 - 1. View Profile
+2023-05-138 17:06:52 INFO  BaseController:124 - 2. Update Profile
+2023-05-138 17:06:52 INFO  BaseController:125 - 3. Start Quiz
+2023-05-138 17:06:52 INFO  BaseController:126 - 4. Logout
+
+2023-05-138 17:06:52 INFO  BaseController:127 - ==============================================================================================================
+
+2023-05-138 17:06:52 INFO  BaseController:128 - Please Choose Correct Option : 
+2023-05-138 17:06:59 INFO  BaseController:145 - ==============================================================================================================
+
+2023-05-138 17:06:59 INFO  BaseController:146 - You Logged Out Successfully. 
+
+2023-05-138 17:06:59 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:06:59 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:06:59 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:06:59 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:06:59 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:06:59 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:06:59 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:06:59 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:06:59 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:07:02 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:07:02 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:07:02 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Score(/100)   | TimeTaken(in Sec)|
+2023-05-138 17:07:02 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:07:02 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:07:02 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:07:02 INFO  BaseController:60 - 	3	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:07:02 INFO  BaseController:60 - 	4	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:07:02 INFO  BaseController:60 - 	5	11	test234		test234@gmail.com		33.33		28
+2023-05-138 17:07:02 INFO  BaseController:60 - 	6	12	Sam		sam@gmail.com     		16.67		26
+2023-05-138 17:07:02 INFO  BaseController:60 - 	7	8	testing		testing@gmail.com		2.0		6
+2023-05-138 17:07:02 INFO  BaseController:67 - 
+
+
+2023-05-138 17:07:02 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:07:02 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:07:02 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:07:02 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:07:02 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:07:02 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:07:02 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:07:02 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:07:02 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:10:09 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:10:10 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:10:10 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:10:10 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:10:10 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:10:10 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:10:10 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:10:10 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:10:10 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:10:17 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:10:17 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:10:17 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Score(/100)   | TimeTaken(in Sec)|
+2023-05-138 17:10:17 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:10:17 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:10:17 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:10:17 INFO  BaseController:60 - 	3	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:10:17 INFO  BaseController:60 - 	4	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:10:17 INFO  BaseController:60 - 	5	11	test234		test234@gmail.com		33.33		28
+2023-05-138 17:10:18 INFO  BaseController:60 - 	6	12	Sam		sam@gmail.com     		16.67		26
+2023-05-138 17:10:18 INFO  BaseController:60 - 	7	8	testing		testing@gmail.com		2.0		6
+2023-05-138 17:10:18 INFO  BaseController:67 - 
+
+
+2023-05-138 17:10:18 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:10:18 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:10:18 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:10:18 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:10:18 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:10:18 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:10:18 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:10:18 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:10:18 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:10:26 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-138 17:10:32 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-138 17:10:34 INFO  BaseController:122 - ==============================================================================================================
+
+2023-05-138 17:10:34 INFO  BaseController:123 - Welcome Testing !!
+
+2023-05-138 17:10:34 INFO  BaseController:124 - 1. View Profile
+2023-05-138 17:10:34 INFO  BaseController:125 - 2. Update Profile
+2023-05-138 17:10:34 INFO  BaseController:126 - 3. Start Quiz
+2023-05-138 17:10:34 INFO  BaseController:127 - 4. Logout
+
+2023-05-138 17:10:34 INFO  BaseController:128 - ==============================================================================================================
+
+2023-05-138 17:10:34 INFO  BaseController:129 - Please Choose Correct Option : 
+2023-05-138 17:10:41 INFO  BaseController:137 - Quiz Starting
+2023-05-138 17:10:41 INFO  BaseController:145 - 5...
+2023-05-138 17:10:42 INFO  BaseController:145 - 4...
+2023-05-138 17:10:42 INFO  BaseController:145 - 3...
+2023-05-138 17:10:43 INFO  BaseController:145 - 2...
+2023-05-138 17:10:43 INFO  BaseController:145 - 1...
+2023-05-138 17:10:43 INFO  BaseController:148 - Go
+
+
+2023-05-138 17:10:43 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:10:43 INFO  BaseController:153 - Question 2 : 2*3=?
+
+2023-05-138 17:10:43 INFO  BaseController:154 - (A)5
+2023-05-138 17:10:43 INFO  BaseController:155 - (B)7
+2023-05-138 17:10:43 INFO  BaseController:156 - (C)6
+2023-05-138 17:10:43 INFO  BaseController:157 - (D)2
+
+2023-05-138 17:10:43 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:10:49 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:10:49 INFO  BaseController:153 - Question 3 : which is even number
+
+2023-05-138 17:10:49 INFO  BaseController:154 - (A)7
+2023-05-138 17:10:49 INFO  BaseController:155 - (B)8
+2023-05-138 17:10:49 INFO  BaseController:156 - (C)5
+2023-05-138 17:10:49 INFO  BaseController:157 - (D)9
+
+2023-05-138 17:10:49 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:10:54 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:10:54 INFO  BaseController:153 - Question 4 : Which one of the following is not a Java feature?
+
+2023-05-138 17:10:54 INFO  BaseController:154 - (A)Object-oriented
+2023-05-138 17:10:54 INFO  BaseController:155 - (B)Use of pointers
+2023-05-138 17:10:54 INFO  BaseController:156 - (C)Portable
+2023-05-138 17:10:54 INFO  BaseController:157 - (D)Dynamic and Extensible
+
+2023-05-138 17:10:54 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:10:58 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:10:58 INFO  BaseController:153 - Question 5 : Which component is used to compile, debug and execute the java programs?
+
+2023-05-138 17:10:58 INFO  BaseController:154 - (A)JRE
+2023-05-138 17:10:58 INFO  BaseController:155 - (B)JIT
+2023-05-138 17:10:58 INFO  BaseController:156 - (C)JDK
+2023-05-138 17:10:58 INFO  BaseController:157 - (D)JVM
+
+2023-05-138 17:10:58 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:11:06 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:11:06 INFO  BaseController:153 - Question 6 : Which statement is true about Java?
+
+2023-05-138 17:11:06 INFO  BaseController:154 - (A)Java is a sequence-dependent programming language
+2023-05-138 17:11:06 INFO  BaseController:155 - (B)Java is a code dependent programming language
+2023-05-138 17:11:06 INFO  BaseController:156 - (C)Java is a platform-dependent programming language
+2023-05-138 17:11:06 INFO  BaseController:157 - (D)Java is a platform-independent programming language
+
+2023-05-138 17:11:06 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:11:08 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-138 17:11:08 INFO  BaseController:153 - Question 7 : Who invented Java Programming?
+
+2023-05-138 17:11:08 INFO  BaseController:154 - (A)Guido van Rossum
+2023-05-138 17:11:08 INFO  BaseController:155 - (B)James Gosling
+2023-05-138 17:11:08 INFO  BaseController:156 - (C)Dennis Ritchie
+2023-05-138 17:11:08 INFO  BaseController:157 - (D)Bjarne Stroustrup
+
+2023-05-138 17:11:08 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-138 17:11:09 INFO  BaseController:170 - ==============================================================================================================
+
+2023-05-138 17:11:09 INFO  BaseController:171 - You Scored 66.67 , Total Time Taken : 25 Seconds
+2023-05-138 17:11:09 INFO  BaseController:172 - ==============================================================================================================
+
+2023-05-138 17:11:09 INFO  BaseController:122 - ==============================================================================================================
+
+2023-05-138 17:11:09 INFO  BaseController:123 - Welcome Testing !!
+
+2023-05-138 17:11:09 INFO  BaseController:124 - 1. View Profile
+2023-05-138 17:11:09 INFO  BaseController:125 - 2. Update Profile
+2023-05-138 17:11:09 INFO  BaseController:126 - 3. Start Quiz
+2023-05-138 17:11:09 INFO  BaseController:127 - 4. Logout
+
+2023-05-138 17:11:09 INFO  BaseController:128 - ==============================================================================================================
+
+2023-05-138 17:11:09 INFO  BaseController:129 - Please Choose Correct Option : 
+2023-05-138 17:18:05 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:18:05 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:18:05 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:18:05 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:18:05 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:18:05 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:18:05 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:18:05 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:18:05 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 17:18:27 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 17:18:27 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:18:27 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-138 17:18:27 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 17:18:27 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 17:18:27 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 17:18:27 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-138 17:18:27 INFO  BaseController:60 - 	4	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 17:18:28 INFO  BaseController:60 - 	5	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 17:18:28 INFO  BaseController:60 - 	6	11	test234		test234@gmail.com		33.33		28
+2023-05-138 17:18:28 INFO  BaseController:60 - 	7	12	Sam		sam@gmail.com     		16.67		26
+2023-05-138 17:18:28 INFO  BaseController:67 - 
+
+
+2023-05-138 17:18:28 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 17:18:28 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 17:18:28 INFO  BaseController:35 - 1. Register User
+2023-05-138 17:18:28 INFO  BaseController:36 - 2. User Login
+2023-05-138 17:18:28 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 17:18:28 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 17:18:28 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 17:18:28 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 17:18:28 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 18:12:53 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 18:12:53 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 18:12:53 INFO  BaseController:35 - 1. Register User
+2023-05-138 18:12:53 INFO  BaseController:36 - 2. User Login
+2023-05-138 18:12:53 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 18:12:53 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 18:12:53 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 18:12:53 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 18:12:53 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-138 18:13:13 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-138 18:13:13 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 18:13:13 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-138 18:13:13 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-138 18:13:13 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-138 18:13:13 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-138 18:13:13 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-138 18:13:13 INFO  BaseController:60 - 	4	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-138 18:13:13 INFO  BaseController:60 - 	5	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-138 18:13:13 INFO  BaseController:60 - 	6	11	test234		test234@gmail.com		33.33		28
+2023-05-138 18:13:13 INFO  BaseController:60 - 	7	12	Sam		sam@gmail.com     		16.67		26
+2023-05-138 18:13:13 INFO  BaseController:67 - 
+
+
+2023-05-138 18:13:13 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-138 18:13:13 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-138 18:13:13 INFO  BaseController:35 - 1. Register User
+2023-05-138 18:13:13 INFO  BaseController:36 - 2. User Login
+2023-05-138 18:13:13 INFO  BaseController:37 - 3. Admin Login
+2023-05-138 18:13:13 INFO  BaseController:38 - 4. View Score Board
+2023-05-138 18:13:13 INFO  BaseController:39 - 5. Exit
+
+2023-05-138 18:13:13 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-138 18:13:13 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 10:17:28 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 10:17:28 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 10:17:28 INFO  BaseController:35 - 1. Register User
+2023-05-139 10:17:28 INFO  BaseController:36 - 2. User Login
+2023-05-139 10:17:28 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 10:17:28 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 10:17:28 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 10:17:28 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 10:17:28 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 10:17:32 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-139 10:17:40 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-139 13:46:58 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 13:46:58 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 13:46:58 INFO  BaseController:35 - 1. Register User
+2023-05-139 13:46:58 INFO  BaseController:36 - 2. User Login
+2023-05-139 13:46:58 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 13:46:58 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 13:46:58 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 13:46:58 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 13:46:58 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:18:31 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:18:31 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:18:31 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:18:31 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:18:31 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:18:31 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:18:31 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:18:31 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:18:31 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:20:27 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:20:27 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:20:27 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:20:27 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:20:27 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:20:27 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:20:27 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:20:27 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:20:27 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:24:34 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:24:34 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:24:34 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:24:34 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:24:34 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:24:34 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:24:34 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:24:34 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:24:34 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:29:40 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:29:40 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:29:40 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:29:40 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:29:40 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:29:40 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:29:40 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:29:40 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:29:40 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:29:42 INFO  BaseController:74 - com.virtusa.quiz.exception.UserDataException: Connection Problem
+2023-05-139 17:29:42 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:29:42 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:29:42 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:29:42 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:29:42 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:29:42 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:29:42 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:29:42 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:29:42 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:30:40 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:30:40 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:30:40 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:30:40 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:30:40 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:30:40 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:30:40 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:30:40 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:30:40 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:30:42 INFO  BaseController:74 - com.virtusa.quiz.exception.UserDataException: Connection Problem
+2023-05-139 17:30:42 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:30:42 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:30:42 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:30:42 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:30:42 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:30:42 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:30:42 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:30:42 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:30:42 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:32:10 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:32:10 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:32:10 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:32:10 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:32:10 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:32:10 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:32:10 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:32:10 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:32:10 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:32:13 INFO  BaseController:74 - com.virtusa.quiz.exception.UserDataException: Connection Problem
+2023-05-139 17:32:13 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:32:13 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:32:13 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:32:13 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:32:13 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:32:13 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:32:13 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:32:13 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:32:13 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:32:40 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:32:40 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:32:40 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:32:40 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:32:40 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:32:40 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:32:40 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:32:40 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:32:40 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:33:17 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:33:17 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:33:17 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:33:17 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:33:17 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:33:17 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:33:17 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:33:17 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:33:17 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:33:19 INFO  BaseController:74 - com.virtusa.quiz.exception.UserDataException: Connection Problem
+2023-05-139 17:33:19 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:33:19 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:33:19 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:33:19 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:33:19 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:33:19 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:33:19 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:33:19 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:33:19 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:34:06 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:34:06 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:34:06 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:34:06 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:34:06 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:34:06 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:34:06 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:34:06 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:34:06 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:34:10 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-139 17:34:10 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-139 17:34:10 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-139 17:34:10 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-139 17:34:10 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-139 17:34:10 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-139 17:34:10 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-139 17:34:10 INFO  BaseController:60 - 	4	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-139 17:34:10 INFO  BaseController:60 - 	5	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-139 17:34:10 INFO  BaseController:60 - 	6	11	test234		test234@gmail.com		33.33		28
+2023-05-139 17:34:10 INFO  BaseController:60 - 	7	12	Sam		sam@gmail.com     		16.67		26
+2023-05-139 17:34:10 INFO  BaseController:60 - 	8	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-139 17:34:10 INFO  BaseController:67 - 
+
+
+2023-05-139 17:34:10 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:34:10 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:34:10 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:34:10 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:34:10 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:34:10 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:34:10 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:34:10 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:34:10 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:55:21 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:55:21 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:55:21 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:55:21 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:55:21 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:55:21 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:55:21 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:55:21 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:55:21 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-139 17:55:24 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-139 17:55:24 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-139 17:55:24 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-139 17:55:24 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-139 17:55:24 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-139 17:55:24 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-139 17:55:24 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-139 17:55:24 INFO  BaseController:60 - 	4	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-139 17:55:24 INFO  BaseController:60 - 	5	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-139 17:55:24 INFO  BaseController:60 - 	6	11	test234		test234@gmail.com		33.33		28
+2023-05-139 17:55:24 INFO  BaseController:60 - 	7	12	Sam		sam@gmail.com     		16.67		26
+2023-05-139 17:55:24 INFO  BaseController:60 - 	8	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-139 17:55:24 INFO  BaseController:67 - 
+
+
+2023-05-139 17:55:24 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-139 17:55:24 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-139 17:55:24 INFO  BaseController:35 - 1. Register User
+2023-05-139 17:55:24 INFO  BaseController:36 - 2. User Login
+2023-05-139 17:55:24 INFO  BaseController:37 - 3. Admin Login
+2023-05-139 17:55:24 INFO  BaseController:38 - 4. View Score Board
+2023-05-139 17:55:24 INFO  BaseController:39 - 5. Exit
+
+2023-05-139 17:55:24 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-139 17:55:24 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:49:03 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:49:03 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:49:03 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:49:03 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:49:03 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:49:03 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:49:03 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:49:03 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:49:03 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:49:07 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 10:49:07 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 10:49:07 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 10:49:07 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 10:49:07 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 10:49:07 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 10:49:07 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 10:49:07 INFO  BaseController:60 - 	4	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 10:49:07 INFO  BaseController:60 - 	5	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 10:49:07 INFO  BaseController:60 - 	6	11	test234		test234@gmail.com		33.33		28
+2023-05-142 10:49:07 INFO  BaseController:60 - 	7	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 10:49:07 INFO  BaseController:60 - 	8	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 10:49:07 INFO  BaseController:67 - 
+
+
+2023-05-142 10:49:07 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:49:07 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:49:07 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:49:07 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:49:07 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:49:07 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:49:07 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:49:07 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:49:07 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:58:26 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-142 10:58:33 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-142 10:58:37 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-142 10:58:37 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:58:37 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:58:37 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:58:37 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:58:37 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:58:37 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:58:37 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:58:37 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:58:37 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:58:54 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:58:54 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:58:54 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:58:54 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:58:54 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:58:54 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:58:54 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:58:54 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:58:54 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:59:06 INFO  BaseController:80 - java.util.InputMismatchException Wrong Input
+2023-05-142 10:59:06 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:59:06 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:59:06 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:59:06 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:59:06 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:59:06 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:59:06 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:59:06 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:59:06 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:59:29 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-142 10:59:30 INFO  BaseController:77 - com.virtusa.quiz.exception.InvalidDataException: Wrong Credential, Please Try Again!!
+
+2023-05-142 10:59:30 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 10:59:30 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 10:59:30 INFO  BaseController:35 - 1. Register User
+2023-05-142 10:59:30 INFO  BaseController:36 - 2. User Login
+2023-05-142 10:59:30 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 10:59:30 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 10:59:30 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 10:59:30 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 10:59:30 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 10:59:39 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-142 10:59:45 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-142 10:59:46 INFO  BaseController:122 - ==============================================================================================================
+
+2023-05-142 10:59:46 INFO  BaseController:123 - Welcome Test !!
+
+2023-05-142 10:59:46 INFO  BaseController:124 - 1. View Profile
+2023-05-142 10:59:46 INFO  BaseController:125 - 2. Update Profile
+2023-05-142 10:59:46 INFO  BaseController:126 - 3. Start Quiz
+2023-05-142 10:59:46 INFO  BaseController:127 - 4. Logout
+
+2023-05-142 10:59:46 INFO  BaseController:128 - ==============================================================================================================
+
+2023-05-142 10:59:46 INFO  BaseController:129 - Please Choose Correct Option : 
+2023-05-142 10:59:49 INFO  BaseController:158 - ==============================================================================================================
+
+2023-05-142 10:59:49 INFO  BaseController:159 - Id :       7
+2023-05-142 10:59:49 INFO  BaseController:160 - Name :     test
+2023-05-142 10:59:49 INFO  BaseController:161 - Email Id : test@gmail.com
+2023-05-142 10:59:49 INFO  BaseController:162 - Phone No : 7415100782
+
+2023-05-142 10:59:49 INFO  BaseController:163 - ==============================================================================================================
+
+2023-05-142 10:59:49 INFO  BaseController:122 - ==============================================================================================================
+
+2023-05-142 10:59:49 INFO  BaseController:123 - Welcome Test !!
+
+2023-05-142 10:59:49 INFO  BaseController:124 - 1. View Profile
+2023-05-142 10:59:49 INFO  BaseController:125 - 2. Update Profile
+2023-05-142 10:59:49 INFO  BaseController:126 - 3. Start Quiz
+2023-05-142 10:59:49 INFO  BaseController:127 - 4. Logout
+
+2023-05-142 10:59:49 INFO  BaseController:128 - ==============================================================================================================
+
+2023-05-142 10:59:49 INFO  BaseController:129 - Please Choose Correct Option : 
+2023-05-142 11:00:16 INFO  BaseController:146 - ==============================================================================================================
+
+2023-05-142 11:00:16 INFO  BaseController:147 - You Logged Out Successfully. 
+
+2023-05-142 11:00:16 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:00:16 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:00:16 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:00:16 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:00:16 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:00:16 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:00:16 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:00:16 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:00:16 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 11:00:28 INFO  BaseController:20 - ==============================================================================================================
+
+2023-05-142 11:00:28 INFO  BaseController:21 - Enter Admin Login Details
+
+2023-05-142 11:00:28 INFO  BaseController:22 - Please Enter Email ID : 
+2023-05-142 11:00:33 INFO  BaseController:31 - Please Enter Your Password : 
+2023-05-142 11:00:36 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:00:36 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:00:36 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:00:36 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:00:36 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:00:36 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:00:36 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:00:36 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:00:36 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:00:36 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:00:36 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 1
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 1 : 2*3=?
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) 5
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) 7
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) 6
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) 2
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : C
+
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 6
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 2 : which is even number
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) 7
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) 8
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) 5
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) 9
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 8
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 3 : Which one of the following is not a Java feature?
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) Object-oriented
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) Use of pointers
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) Portable
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) Dynamic and Extensible
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 9
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 4 : Which component is used to compile, debug and execute the java programs?
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) JRE
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) JIT
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) JDK
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) JVM
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : C
+
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 10
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 5 : Which statement is true about Java?
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) Java is a sequence-dependent programming language
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) Java is a code dependent programming language
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) Java is a platform-dependent programming language
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) Java is a platform-independent programming language
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : D
+
+2023-05-142 11:00:52 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:33 - Question Id : 11
+
+2023-05-142 11:00:52 INFO  BaseController:34 - Question 6 : Who invented Java Programming?
+
+2023-05-142 11:00:52 INFO  BaseController:35 - (A) Guido van Rossum
+2023-05-142 11:00:52 INFO  BaseController:36 - (B) James Gosling
+2023-05-142 11:00:52 INFO  BaseController:37 - (C) Dennis Ritchie
+2023-05-142 11:00:52 INFO  BaseController:38 - (D) Bjarne Stroustrup
+
+2023-05-142 11:00:52 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:00:52 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:00:52 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:00:52 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:00:52 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:00:52 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:00:52 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:00:52 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:00:52 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:00:52 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:00:52 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:01:19 INFO  BaseController:180 - Enter Id of Question You want to Delete
+2023-05-142 11:01:33 INFO  BaseController:183 - Question Deleted Successfully,Hooray!  
+2023-05-142 11:01:33 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:01:33 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:01:33 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:01:33 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:01:33 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:01:33 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:01:33 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:01:33 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:01:33 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:01:33 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:01:33 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:02:16 INFO  BaseController:180 - Enter Id of Question You want to Delete
+2023-05-142 11:02:19 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:02:19 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:02:19 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:02:19 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:02:19 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:02:19 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:02:19 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:02:19 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:02:19 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:02:19 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:02:19 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:15:16 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:15:16 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:15:16 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:15:16 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:15:16 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:15:16 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:15:16 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:15:16 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:15:16 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 11:15:34 INFO  BaseController:19 - ==============================================================================================================
+
+2023-05-142 11:15:34 INFO  BaseController:20 - Enter User Name
+2023-05-142 11:15:48 INFO  BaseController:23 - Please Enter Email ID : 
+2023-05-142 11:15:57 INFO  BaseController:39 - Enter Phone Number
+2023-05-142 11:16:11 INFO  BaseController:52 - Please Enter Your Password : 
+2023-05-142 11:16:29 INFO  BaseController:65 - You are Registered Succesfully!!
+
+2023-05-142 11:16:29 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:16:29 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:16:29 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:16:29 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:16:29 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:16:29 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:16:29 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:16:29 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:16:29 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 11:16:44 INFO  BaseController:74 - Please Enter Email ID : 
+2023-05-142 11:16:52 INFO  BaseController:85 - Please Enter Your Password : 
+2023-05-142 11:16:57 INFO  BaseController:123 - ==============================================================================================================
+
+2023-05-142 11:16:57 INFO  BaseController:124 - Welcome Raghav !!
+
+2023-05-142 11:16:57 INFO  BaseController:125 - 1. View Profile
+2023-05-142 11:16:57 INFO  BaseController:126 - 2. Update Profile
+2023-05-142 11:16:57 INFO  BaseController:127 - 3. Start Quiz
+2023-05-142 11:16:57 INFO  BaseController:128 - 4. Logout
+
+2023-05-142 11:16:57 INFO  BaseController:129 - ==============================================================================================================
+
+2023-05-142 11:16:57 INFO  BaseController:130 - Please Choose Correct Option : 
+2023-05-142 11:17:34 INFO  BaseController:159 - ==============================================================================================================
+
+2023-05-142 11:17:34 INFO  BaseController:160 - Id :       15
+2023-05-142 11:17:34 INFO  BaseController:161 - Name :     raghav
+2023-05-142 11:17:34 INFO  BaseController:162 - Email Id : raghav@gmail.com
+2023-05-142 11:17:34 INFO  BaseController:163 - Phone No : 9876543908
+
+2023-05-142 11:17:34 INFO  BaseController:164 - ==============================================================================================================
+
+2023-05-142 11:17:34 INFO  BaseController:123 - ==============================================================================================================
+
+2023-05-142 11:17:34 INFO  BaseController:124 - Welcome Raghav !!
+
+2023-05-142 11:17:34 INFO  BaseController:125 - 1. View Profile
+2023-05-142 11:17:34 INFO  BaseController:126 - 2. Update Profile
+2023-05-142 11:17:34 INFO  BaseController:127 - 3. Start Quiz
+2023-05-142 11:17:34 INFO  BaseController:128 - 4. Logout
+
+2023-05-142 11:17:34 INFO  BaseController:129 - ==============================================================================================================
+
+2023-05-142 11:17:34 INFO  BaseController:130 - Please Choose Correct Option : 
+2023-05-142 11:17:43 INFO  BaseController:170 - Name : raghav
+
+2023-05-142 11:17:43 INFO  BaseController:220 - Would You like to Update this (Y/N)?
+2023-05-142 11:17:51 INFO  BaseController:177 - Phone No : 9876543908
+
+2023-05-142 11:17:51 INFO  BaseController:220 - Would You like to Update this (Y/N)?
+2023-05-142 11:17:59 INFO  BaseController:193 - Password cmFnaGF2
+
+2023-05-142 11:17:59 INFO  BaseController:220 - Would You like to Update this (Y/N)?
+2023-05-142 11:18:28 INFO  BaseController:195 - Enter Old Password
+2023-05-142 11:18:34 INFO  BaseController:202 - Please write Updated data : 
+2023-05-142 11:18:53 INFO  BaseController:215 - User Updated Successfully !!
+
+2023-05-142 11:18:53 INFO  BaseController:123 - ==============================================================================================================
+
+2023-05-142 11:18:53 INFO  BaseController:124 - Welcome Raghav !!
+
+2023-05-142 11:18:53 INFO  BaseController:125 - 1. View Profile
+2023-05-142 11:18:53 INFO  BaseController:126 - 2. Update Profile
+2023-05-142 11:18:53 INFO  BaseController:127 - 3. Start Quiz
+2023-05-142 11:18:53 INFO  BaseController:128 - 4. Logout
+
+2023-05-142 11:18:53 INFO  BaseController:129 - ==============================================================================================================
+
+2023-05-142 11:18:53 INFO  BaseController:130 - Please Choose Correct Option : 
+2023-05-142 11:19:01 INFO  BaseController:137 - Quiz Starting
+2023-05-142 11:19:01 INFO  BaseController:145 - 5...
+2023-05-142 11:19:02 INFO  BaseController:145 - 4...
+2023-05-142 11:19:02 INFO  BaseController:145 - 3...
+2023-05-142 11:19:03 INFO  BaseController:145 - 2...
+2023-05-142 11:19:03 INFO  BaseController:145 - 1...
+2023-05-142 11:19:03 INFO  BaseController:148 - Go
+
+
+2023-05-142 11:19:03 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-142 11:19:03 INFO  BaseController:153 - Question 1 : 2*3=?
+
+2023-05-142 11:19:03 INFO  BaseController:154 - (A)5
+2023-05-142 11:19:03 INFO  BaseController:155 - (B)7
+2023-05-142 11:19:03 INFO  BaseController:156 - (C)6
+2023-05-142 11:19:03 INFO  BaseController:157 - (D)2
+
+2023-05-142 11:19:03 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-142 11:19:14 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-142 11:19:14 INFO  BaseController:153 - Question 2 : which is even number
+
+2023-05-142 11:19:14 INFO  BaseController:154 - (A)7
+2023-05-142 11:19:14 INFO  BaseController:155 - (B)8
+2023-05-142 11:19:14 INFO  BaseController:156 - (C)5
+2023-05-142 11:19:14 INFO  BaseController:157 - (D)9
+
+2023-05-142 11:19:14 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-142 11:19:18 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-142 11:19:18 INFO  BaseController:153 - Question 3 : Which one of the following is not a Java feature?
+
+2023-05-142 11:19:18 INFO  BaseController:154 - (A)Object-oriented
+2023-05-142 11:19:18 INFO  BaseController:155 - (B)Use of pointers
+2023-05-142 11:19:18 INFO  BaseController:156 - (C)Portable
+2023-05-142 11:19:18 INFO  BaseController:157 - (D)Dynamic and Extensible
+
+2023-05-142 11:19:18 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-142 11:19:25 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-142 11:19:25 INFO  BaseController:153 - Question 4 : Which statement is true about Java?
+
+2023-05-142 11:19:25 INFO  BaseController:154 - (A)Java is a sequence-dependent programming language
+2023-05-142 11:19:25 INFO  BaseController:155 - (B)Java is a code dependent programming language
+2023-05-142 11:19:25 INFO  BaseController:156 - (C)Java is a platform-dependent programming language
+2023-05-142 11:19:25 INFO  BaseController:157 - (D)Java is a platform-independent programming language
+
+2023-05-142 11:19:25 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-142 11:19:29 INFO  BaseController:152 - ==============================================================================================================
+
+2023-05-142 11:19:29 INFO  BaseController:153 - Question 5 : Who invented Java Programming?
+
+2023-05-142 11:19:29 INFO  BaseController:154 - (A)Guido van Rossum
+2023-05-142 11:19:29 INFO  BaseController:155 - (B)James Gosling
+2023-05-142 11:19:29 INFO  BaseController:156 - (C)Dennis Ritchie
+2023-05-142 11:19:29 INFO  BaseController:157 - (D)Bjarne Stroustrup
+
+2023-05-142 11:19:29 INFO  BaseController:158 - Please Choose Correct Option : 
+2023-05-142 11:19:32 INFO  BaseController:171 - ==============================================================================================================
+
+2023-05-142 11:19:32 INFO  BaseController:172 - You Scored 3/5 ,Total Percentage 60.00 , Total Time Taken : 28 Seconds
+
+2023-05-142 11:19:32 INFO  BaseController:123 - ==============================================================================================================
+
+2023-05-142 11:19:32 INFO  BaseController:124 - Welcome Raghav !!
+
+2023-05-142 11:19:32 INFO  BaseController:125 - 1. View Profile
+2023-05-142 11:19:32 INFO  BaseController:126 - 2. Update Profile
+2023-05-142 11:19:32 INFO  BaseController:127 - 3. Start Quiz
+2023-05-142 11:19:32 INFO  BaseController:128 - 4. Logout
+
+2023-05-142 11:19:32 INFO  BaseController:129 - ==============================================================================================================
+
+2023-05-142 11:19:32 INFO  BaseController:130 - Please Choose Correct Option : 
+2023-05-142 11:19:45 INFO  BaseController:147 - ==============================================================================================================
+
+2023-05-142 11:19:45 INFO  BaseController:148 - You Logged Out Successfully. 
+
+2023-05-142 11:19:45 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:19:45 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:19:45 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:19:45 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:19:45 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:19:45 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:19:45 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:19:45 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:19:45 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 11:19:51 INFO  BaseController:20 - ==============================================================================================================
+
+2023-05-142 11:19:51 INFO  BaseController:21 - Enter Admin Login Details
+
+2023-05-142 11:19:51 INFO  BaseController:22 - Please Enter Email ID : 
+2023-05-142 11:19:57 INFO  BaseController:31 - Please Enter Your Password : 
+2023-05-142 11:19:59 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:19:59 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:19:59 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:19:59 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:19:59 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:19:59 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:19:59 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:19:59 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:19:59 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:19:59 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:19:59 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:20:04 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:33 - Question Id : 1
+
+2023-05-142 11:20:04 INFO  BaseController:34 - Question 1 : 2*3=?
+
+2023-05-142 11:20:04 INFO  BaseController:35 - (A) 5
+2023-05-142 11:20:04 INFO  BaseController:36 - (B) 7
+2023-05-142 11:20:04 INFO  BaseController:37 - (C) 6
+2023-05-142 11:20:04 INFO  BaseController:38 - (D) 2
+
+2023-05-142 11:20:04 INFO  BaseController:39 - Answer : C
+
+2023-05-142 11:20:04 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:33 - Question Id : 6
+
+2023-05-142 11:20:04 INFO  BaseController:34 - Question 2 : which is even number
+
+2023-05-142 11:20:04 INFO  BaseController:35 - (A) 7
+2023-05-142 11:20:04 INFO  BaseController:36 - (B) 8
+2023-05-142 11:20:04 INFO  BaseController:37 - (C) 5
+2023-05-142 11:20:04 INFO  BaseController:38 - (D) 9
+
+2023-05-142 11:20:04 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:20:04 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:33 - Question Id : 8
+
+2023-05-142 11:20:04 INFO  BaseController:34 - Question 3 : Which one of the following is not a Java feature?
+
+2023-05-142 11:20:04 INFO  BaseController:35 - (A) Object-oriented
+2023-05-142 11:20:04 INFO  BaseController:36 - (B) Use of pointers
+2023-05-142 11:20:04 INFO  BaseController:37 - (C) Portable
+2023-05-142 11:20:04 INFO  BaseController:38 - (D) Dynamic and Extensible
+
+2023-05-142 11:20:04 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:20:04 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:33 - Question Id : 10
+
+2023-05-142 11:20:04 INFO  BaseController:34 - Question 4 : Which statement is true about Java?
+
+2023-05-142 11:20:04 INFO  BaseController:35 - (A) Java is a sequence-dependent programming language
+2023-05-142 11:20:04 INFO  BaseController:36 - (B) Java is a code dependent programming language
+2023-05-142 11:20:04 INFO  BaseController:37 - (C) Java is a platform-dependent programming language
+2023-05-142 11:20:04 INFO  BaseController:38 - (D) Java is a platform-independent programming language
+
+2023-05-142 11:20:04 INFO  BaseController:39 - Answer : D
+
+2023-05-142 11:20:04 INFO  BaseController:32 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:33 - Question Id : 11
+
+2023-05-142 11:20:04 INFO  BaseController:34 - Question 5 : Who invented Java Programming?
+
+2023-05-142 11:20:04 INFO  BaseController:35 - (A) Guido van Rossum
+2023-05-142 11:20:04 INFO  BaseController:36 - (B) James Gosling
+2023-05-142 11:20:04 INFO  BaseController:37 - (C) Dennis Ritchie
+2023-05-142 11:20:04 INFO  BaseController:38 - (D) Bjarne Stroustrup
+
+2023-05-142 11:20:04 INFO  BaseController:39 - Answer : B
+
+2023-05-142 11:20:04 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:54 - Welcome Admin !!
+
+
+2023-05-142 11:20:04 INFO  BaseController:55 - 1. View All Questions
+2023-05-142 11:20:04 INFO  BaseController:56 - 2. Add Questions
+2023-05-142 11:20:04 INFO  BaseController:57 - 3. Delete Question
+2023-05-142 11:20:04 INFO  BaseController:58 - 4. Update Question
+2023-05-142 11:20:04 INFO  BaseController:59 - 5. View User Details
+2023-05-142 11:20:04 INFO  BaseController:60 - 6. View Score Board
+2023-05-142 11:20:04 INFO  BaseController:61 - 7. Logout
+
+2023-05-142 11:20:04 INFO  BaseController:62 - ==============================================================================================================
+
+2023-05-142 11:20:04 INFO  BaseController:63 - Please Choose Correct Option : 
+2023-05-142 11:20:17 INFO  BaseController:46 - Please Add Question 
+2023-05-142 11:25:23 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:25:23 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:25:23 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:25:23 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:25:23 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:25:23 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:25:23 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:25:23 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:25:23 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 11:25:26 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 11:25:26 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 11:25:26 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 11:25:26 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 11:25:26 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 11:25:26 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 11:25:26 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 11:25:26 INFO  BaseController:60 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 11:25:26 INFO  BaseController:60 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 11:25:26 INFO  BaseController:60 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 11:25:26 INFO  BaseController:60 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 11:25:26 INFO  BaseController:60 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 11:25:26 INFO  BaseController:60 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 11:25:26 INFO  BaseController:67 - 
+
+
+2023-05-142 11:25:26 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 11:25:26 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 11:25:26 INFO  BaseController:35 - 1. Register User
+2023-05-142 11:25:26 INFO  BaseController:36 - 2. User Login
+2023-05-142 11:25:26 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 11:25:26 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 11:25:26 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 11:25:26 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 11:25:26 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:27:45 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:27:45 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:27:45 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:27:45 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:27:45 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:27:45 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:27:45 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:27:45 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:27:45 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:27:47 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 12:27:47 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:27:47 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 12:27:47 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:27:47 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:47 INFO  BaseController:60 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 12:27:47 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:48 INFO  BaseController:60 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 12:27:48 INFO  BaseController:62 - ----------------------------------------------------------------------------------------
+2023-05-142 12:27:48 INFO  BaseController:68 - 
+
+
+2023-05-142 12:27:48 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:27:48 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:27:48 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:27:48 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:27:48 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:27:48 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:27:48 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:27:48 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:27:48 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:28:00 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:28:00 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:28:00 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:28:00 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:28:00 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:28:00 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:28:00 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:28:00 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:28:00 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:28:03 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 12:28:03 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:28:03 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 12:28:03 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:28:03 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:60 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 12:28:03 INFO  BaseController:62 - -----------------------------------------------------------------------------------------------------
+2023-05-142 12:28:03 INFO  BaseController:68 - 
+
+
+2023-05-142 12:28:03 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:28:03 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:28:03 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:28:03 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:28:03 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:28:03 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:28:03 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:28:03 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:28:03 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:28:17 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:28:17 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:28:17 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:28:17 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:28:17 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:28:17 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:28:17 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:28:17 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:28:17 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:28:20 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 12:28:20 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:28:20 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 12:28:20 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 12:28:20 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:60 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 12:28:20 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 12:28:20 INFO  BaseController:68 - 
+
+
+2023-05-142 12:28:20 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:28:20 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:28:20 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:28:20 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:28:20 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:28:20 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:28:20 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:28:20 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:28:20 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 12:45:59 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 12:45:59 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 12:45:59 INFO  BaseController:35 - 1. Register User
+2023-05-142 12:45:59 INFO  BaseController:36 - 2. User Login
+2023-05-142 12:45:59 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 12:45:59 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 12:45:59 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 12:45:59 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 12:45:59 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:14:59 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:14:59 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:14:59 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:14:59 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:14:59 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:14:59 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:14:59 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:14:59 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:14:59 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:15:03 INFO  BaseController:52 - ==============================================================================================================
+
+2023-05-142 13:15:03 INFO  BaseController:53 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:15:03 INFO  BaseController:54 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 13:15:03 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:15:03 INFO  BaseController:60 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 13:15:03 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:03 INFO  BaseController:60 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 13:15:03 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:60 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 13:15:04 INFO  BaseController:62 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:15:04 INFO  BaseController:68 - 
+
+
+2023-05-142 13:15:04 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:15:04 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:15:04 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:15:04 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:15:04 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:15:04 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:15:04 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:15:04 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:15:04 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:15:28 INFO  BaseController:91 - ==============================================================================================================
+
+2023-05-142 13:15:28 INFO  BaseController:92 -  Thank You!! Have a good day.
+2023-05-142 13:15:28 INFO  BaseController:93 - ==============================================================================================================
+
+2023-05-142 13:16:28 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:16:28 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:16:28 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:16:28 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:16:28 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:16:28 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:16:28 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:16:28 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:16:28 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:16:33 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 13:16:33 INFO  BaseController:54 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:16:33 INFO  BaseController:55 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 13:16:33 INFO  BaseController:56 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:16:34 INFO  BaseController:61 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:61 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 13:16:34 INFO  BaseController:63 -  ------------------------------------------------------------------------------------------------------
+2023-05-142 13:16:34 INFO  BaseController:69 - 
+
+
+2023-05-142 13:16:34 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:16:34 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:16:34 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:16:34 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:16:34 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:16:34 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:16:34 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:16:34 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:16:34 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:16:55 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:16:55 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:16:55 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:16:55 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:16:55 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:16:55 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:16:55 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:16:55 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:16:55 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-142 13:17:03 INFO  BaseController:53 - ==============================================================================================================
+
+2023-05-142 13:17:03 INFO  BaseController:54 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:17:03 INFO  BaseController:55 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-142 13:17:03 INFO  BaseController:56 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-142 13:17:03 INFO  BaseController:61 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:61 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-142 13:17:03 INFO  BaseController:63 -  -----------------------------------------------------------------------------------------------------
+2023-05-142 13:17:03 INFO  BaseController:69 - 
+
+
+2023-05-142 13:17:03 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-142 13:17:03 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-142 13:17:03 INFO  BaseController:35 - 1. Register User
+2023-05-142 13:17:03 INFO  BaseController:36 - 2. User Login
+2023-05-142 13:17:03 INFO  BaseController:37 - 3. Admin Login
+2023-05-142 13:17:03 INFO  BaseController:38 - 4. View Score Board
+2023-05-142 13:17:03 INFO  BaseController:39 - 5. Exit
+
+2023-05-142 13:17:03 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-142 13:17:03 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-146 09:50:07 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-146 09:50:07 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-146 09:50:07 INFO  BaseController:35 - 1. Register User
+2023-05-146 09:50:07 INFO  BaseController:36 - 2. User Login
+2023-05-146 09:50:07 INFO  BaseController:37 - 3. Admin Login
+2023-05-146 09:50:07 INFO  BaseController:38 - 4. View Score Board
+2023-05-146 09:50:07 INFO  BaseController:39 - 5. Exit
+
+2023-05-146 09:50:07 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-146 09:50:07 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-146 09:50:31 INFO  BaseController:54 - ==============================================================================================================
+
+2023-05-146 09:50:31 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-146 09:50:31 INFO  BaseController:56 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-146 09:50:31 INFO  BaseController:57 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-146 09:50:31 INFO  BaseController:64 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-146 09:50:31 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:31 INFO  BaseController:64 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-146 09:50:31 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:64 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-146 09:50:32 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-146 09:50:32 INFO  BaseController:72 - 
+
+
+2023-05-146 09:50:32 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-146 09:50:32 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-146 09:50:32 INFO  BaseController:35 - 1. Register User
+2023-05-146 09:50:32 INFO  BaseController:36 - 2. User Login
+2023-05-146 09:50:32 INFO  BaseController:37 - 3. Admin Login
+2023-05-146 09:50:32 INFO  BaseController:38 - 4. View Score Board
+2023-05-146 09:50:32 INFO  BaseController:39 - 5. Exit
+
+2023-05-146 09:50:32 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-146 09:50:32 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-146 09:50:38 INFO  BaseController:22 - ==============================================================================================================
+
+2023-05-146 09:50:38 INFO  BaseController:23 - Enter Admin Login Details
+
+2023-05-146 09:50:38 INFO  BaseController:24 - Please Enter Email ID : 
+2023-05-146 09:50:44 INFO  BaseController:34 - Please Enter Your Password : 
+2023-05-146 09:50:46 INFO  BaseController:56 - ==============================================================================================================
+
+2023-05-146 09:50:46 INFO  BaseController:57 - Welcome Admin !!
+
+
+2023-05-146 09:50:46 INFO  BaseController:58 - 1. View All Questions
+2023-05-146 09:50:46 INFO  BaseController:59 - 2. Add Questions
+2023-05-146 09:50:46 INFO  BaseController:60 - 3. Delete Question
+2023-05-146 09:50:46 INFO  BaseController:61 - 4. Update Question
+2023-05-146 09:50:46 INFO  BaseController:62 - 5. View User Details
+2023-05-146 09:50:46 INFO  BaseController:63 - 6. View Score Board
+2023-05-146 09:50:46 INFO  BaseController:64 - 7. Logout
+
+2023-05-146 09:50:46 INFO  BaseController:65 - ==============================================================================================================
+
+2023-05-146 09:50:46 INFO  BaseController:66 - Please Choose Correct Option : 
+2023-05-146 09:50:51 INFO  BaseController:132 - ==============================================================================================================
+
+2023-05-146 09:50:51 INFO  BaseController:133 - +----------+----------+---------------+-----------------------+---------------+----------+------------------+
+2023-05-146 09:50:51 INFO  BaseController:134 - |   S.No   |  UserId  |      Name     |       Email Id        |   Phone No.   |  Score   | TimeTaken(in Sec)|
+2023-05-146 09:50:51 INFO  BaseController:135 - +----------+----------+---------------+-----------------------+---------------+----------+------------------+
+2023-05-146 09:50:51 INFO  BaseController:140 - 	1	13	Divya		divya@gmail.com       	8907654321	   100.0		16
+2023-05-146 09:50:51 INFO  BaseController:140 - 	2	9	Jatin		jatin@gmail.com       	8982020827	   50.0		23
+2023-05-146 09:50:51 INFO  BaseController:140 - 	3	15	raghav		raghav@gmail.com	9876543908	   60.0		28
+2023-05-146 09:50:51 INFO  BaseController:140 - 	4	10	Ram Mishra  	ram@gmail.com     	7896543210	   33.33		16
+2023-05-146 09:50:51 INFO  BaseController:140 - 	5	12	Sam		sam@gmail.com     	7890654321	   16.67		26
+2023-05-146 09:50:51 INFO  BaseController:140 - 	6	14	samarjeet 	samarjeet@gmail.com	9005283478	   0.0		0
+2023-05-146 09:50:51 INFO  BaseController:140 - 	7	7	test		test@gmail.com      	7415100782	   80.0		27
+2023-05-146 09:50:51 INFO  BaseController:140 - 	8	11	test234		test234@gmail.com	9988776655	   33.33		28
+2023-05-146 09:50:51 INFO  BaseController:140 - 	9	8	testing		testing@gmail.com	9876543210	   66.67		25
+2023-05-146 09:50:51 INFO  BaseController:147 - 
+
+
+2023-05-146 09:50:51 INFO  BaseController:56 - ==============================================================================================================
+
+2023-05-146 09:50:51 INFO  BaseController:57 - Welcome Admin !!
+
+
+2023-05-146 09:50:51 INFO  BaseController:58 - 1. View All Questions
+2023-05-146 09:50:51 INFO  BaseController:59 - 2. Add Questions
+2023-05-146 09:50:51 INFO  BaseController:60 - 3. Delete Question
+2023-05-146 09:50:51 INFO  BaseController:61 - 4. Update Question
+2023-05-146 09:50:51 INFO  BaseController:62 - 5. View User Details
+2023-05-146 09:50:51 INFO  BaseController:63 - 6. View Score Board
+2023-05-146 09:50:51 INFO  BaseController:64 - 7. Logout
+
+2023-05-146 09:50:51 INFO  BaseController:65 - ==============================================================================================================
+
+2023-05-146 09:50:51 INFO  BaseController:66 - Please Choose Correct Option : 
+2023-05-151 13:24:45 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-151 13:24:45 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-151 13:24:45 INFO  BaseController:35 - 1. Register User
+2023-05-151 13:24:45 INFO  BaseController:36 - 2. User Login
+2023-05-151 13:24:45 INFO  BaseController:37 - 3. Admin Login
+2023-05-151 13:24:45 INFO  BaseController:38 - 4. View Score Board
+2023-05-151 13:24:45 INFO  BaseController:39 - 5. Exit
+
+2023-05-151 13:24:45 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-151 13:24:45 INFO  BaseController:41 - Please Choose Correct Option : 
+2023-05-151 13:24:54 INFO  BaseController:54 - ==============================================================================================================
+
+2023-05-151 13:24:54 INFO  BaseController:55 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-151 13:24:54 INFO  BaseController:56 - |   Rank   |  UserId  |      Name     |        Email Id         |    Percentage    | TimeTaken(in Sec)|
+2023-05-151 13:24:54 INFO  BaseController:57 - +----------+----------+---------------+-------------------------+------------------+------------------+
+2023-05-151 13:24:54 INFO  BaseController:64 - 	1	13	Divya		divya@gmail.com       		100.0		16
+2023-05-151 13:24:54 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	2	7	test		test@gmail.com      		80.0		27
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	3	8	testing		testing@gmail.com		66.67		25
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	4	15	raghav		raghav@gmail.com		60.0		28
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	5	9	Jatin		jatin@gmail.com       		50.0		23
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	6	10	Ram Mishra  	ram@gmail.com     		33.33		16
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	7	11	test234		test234@gmail.com		33.33		28
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	8	12	Sam		sam@gmail.com     		16.67		26
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:64 - 	9	14	samarjeet 	samarjeet@gmail.com		0.0		0
+2023-05-151 13:24:55 INFO  BaseController:66 -  -----------------------------------------------------------------------------------------------------
+2023-05-151 13:24:55 INFO  BaseController:72 - 
+
+
+2023-05-151 13:24:55 INFO  BaseController:33 - ==============================================================================================================
+
+2023-05-151 13:24:55 INFO  BaseController:34 - ~~~WELCOME TO ONLINE QUIZ~~~
+
+2023-05-151 13:24:55 INFO  BaseController:35 - 1. Register User
+2023-05-151 13:24:55 INFO  BaseController:36 - 2. User Login
+2023-05-151 13:24:55 INFO  BaseController:37 - 3. Admin Login
+2023-05-151 13:24:55 INFO  BaseController:38 - 4. View Score Board
+2023-05-151 13:24:55 INFO  BaseController:39 - 5. Exit
+
+2023-05-151 13:24:55 INFO  BaseController:40 - ==============================================================================================================
+
+2023-05-151 13:24:55 INFO  BaseController:41 - Please Choose Correct Option : 
